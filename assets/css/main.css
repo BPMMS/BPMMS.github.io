@@ -2674,4 +2674,8 @@ input, select, textarea {
 					border-left: 0;
 				}
 
+			#contactform {
+				padding-left: 20px;
+			}
+
 	}
