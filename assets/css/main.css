@@ -1476,7 +1476,7 @@ input, select, textarea {
 	section:last-child,
 	article:last-child {
 		margin-bottom: 0;
-		margin-right: 20px;
+		/* margin-right: 20px; */
 	}
 
 /* Image */
