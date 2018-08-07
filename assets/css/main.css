@@ -130,7 +130,7 @@ input, select, textarea {
 		font-size: 1.2em;
 		letter-spacing: 2px;
 		margin: 0 0 1.25em 0;
-		text-transform: lowercase;
+		text-transform: inherit;
 	}
 
 	a {
