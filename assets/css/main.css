@@ -1565,6 +1565,7 @@ input, select, textarea {
 	ul.links {
 		list-style: none;
 		padding-left: 0;
+		margin-bottom: 0;
 	}
 
 		ul.links li {
@@ -2190,7 +2191,7 @@ input, select, textarea {
 		overflow: hidden;
 		border-top: solid 2px #e5e5e5;
 		background: #f0f0f0;
-		padding: 0;
+		padding: 2em 0 0 0;
 	}
 
 		#footer form input[type="text"],
@@ -2211,6 +2212,7 @@ input, select, textarea {
 
 		#footer h2 {
 			text-align: center;
+			margin-bottom: -40px;
 		}
 
 /* Copyright */
@@ -2218,8 +2220,8 @@ input, select, textarea {
 	#copyright {
 		border-top: solid 2px #e5e5e5;
 		text-align: center;
-		margin-top: 6em;
-		padding-top: 4em;
+		margin-top: 0em;
+		padding-top: 1em;
 	}
 
 /* XLarge */
@@ -2303,14 +2305,14 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				padding: .5em 0;
+				padding: 1.5em 0 0 0;
 			}
 
 		/* Copyright */
 
 			#copyright {
-				margin-top: 2em;
-				padding-top: 2em;
+				margin-top: 0em;
+				padding-top: 1em;
 			}
 
 	}
