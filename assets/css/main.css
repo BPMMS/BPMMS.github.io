@@ -209,13 +209,13 @@ input, select, textarea {
 	.container {
 		margin: 0 auto;
 		max-width: 100%;
-		width: 70em;
+		width: calc(100% - 80px);
 	}
 
 		@media screen and (max-width: 1680px) {
 
 			.container {
-				width: 68em;
+				width: calc(100% - 80px);
 			}
 
 		}
@@ -2068,11 +2068,11 @@ input, select, textarea {
 		overflow: hidden;
 		background: #fff;
 		text-align: center;
-		padding: 6em 0;
+		padding: 2em 0;
 	}
 
 		#features p {
-			text-align: center;
+			text-align: left;
 		}
 
 		#features ul.actions {
@@ -2094,7 +2094,7 @@ input, select, textarea {
 		text-transform: uppercase;
 		background: url("../../images/banner.jpg");
 		background-size: cover;
-		padding: 10em 0;
+		padding: 4em 0;
 	}
 
 		#banner p {
@@ -2277,7 +2277,7 @@ input, select, textarea {
 		/* Features */
 
 			#features {
-				padding: 4em 0;
+				padding: 2em 0;
 			}
 
 		/* Banner */
