@@ -20,7 +20,7 @@ canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
 	margin: 0;
-	padding: 0;
+	padding: 0 0 .5em 0;
 	border: 0;
 	font-size: 100%;
 	font-family: 'Merriweather', serif;
@@ -2144,7 +2144,7 @@ input, select, textarea {
 		position: relative;
 		overflow: hidden;
 		background: #fff;
-		padding: 0;
+		padding-top: .5em;
 	}
 
 /* Content */
@@ -2297,7 +2297,7 @@ input, select, textarea {
 		/* Main */
 
 			#main {
-				padding: 0;
+				padding-top: .5em;
 			}
 
 		/* Footer */
