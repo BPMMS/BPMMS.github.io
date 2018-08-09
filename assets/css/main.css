@@ -2191,10 +2191,10 @@ input, select, textarea {
 	#footer {
 		position: relative;
 		overflow: hidden;
-		border-top: solid 2px #e5e5e5;
+		/* border-top: solid 2px #e5e5e5; */
 		background: #f5f5dc;
 		padding: 1em;
-		margin-bottom: 1em; 
+		margin-bottom: 1em;
 	}
 
 		#footer form input[type="text"],
