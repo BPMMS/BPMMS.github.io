@@ -1581,7 +1581,7 @@ input, select, textarea {
 
 		ul.links li {
 			display: inline;
-			border-left: solid 1px #d0d0d0;
+			/* border-left: solid 1px #d0d0d0; */
 			padding-left: 1em;
 			margin: 0 0 0 1em;
 		}
