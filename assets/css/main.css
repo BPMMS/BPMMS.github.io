@@ -2125,6 +2125,7 @@ input, select, textarea {
 
 		#banner > .container {
 			position: relative;
+			padding: 1.5em 1.1em 0 1.1em;
 		}
 
 			#banner > .container:before, #banner > .container:after {
