@@ -2104,7 +2104,7 @@ input, select, textarea {
 		border-bottom: solid 2px #e5e5e5;
 		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px 8px 0px 0px #fff;
 		position: relative;
-		text-transform: uppercase;
+		/* text-transform: uppercase; */
 		background: url("../../images/banner.jpg");
 		background-size: cover;
 		padding: 4em 0;
@@ -2112,9 +2112,9 @@ input, select, textarea {
 
 		#banner p {
 			font-weight: 400;
-			font-size: 2em;
-			line-height: 1.5em;
-			letter-spacing: 4px;
+			font-size: 1.1em;
+			line-height: 1.1em;
+			letter-spacing: 2.5px;
 			text-align: center;
 			margin: 0;
 		}
