@@ -2694,7 +2694,7 @@ input, select, textarea {
 			}
 
 				#copyright .links li {
-					display: block;
+					/* display: block; */
 					padding-left: 0;
 					margin-left: 0;
 					border-left: 0;
